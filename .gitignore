@@ -221,3 +221,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Données Kaggle : trop lourdes, ne pas envoyer sur GitHub
+data/
